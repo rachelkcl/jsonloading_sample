@@ -1,56 +1,101 @@
 [
- {
-   "Avg. Area Income": 79545.45857,
-   "Avg. Area House Age": 5.682861322,
-   "AvgAreaNumberofRooms": 7.009188143,
-   "Avg. Area Number of Bedrooms": 4.09,
-   "Area Population": 23086.8005,
-   "Price": 1,
-   "Address": "208 Michael Ferry Apt. 674\nLaurabury, NE 37010-5101"
+  {
+   "Avg. Area Income": 75136.30915,
+   "Avg. Area House Age": 7.205959101,
+   "AvgAreaNumberofRooms": 8.223379925,
+   "Avg. Area Number of Bedrooms": 5.14,
+   "Area Population": 35514.53476,
+   "Price": 1633138.098,
+   "Address": "960 Wagner Meadows Apt. 373\nAmyport, GA 05256-5382"
  },
  {
-   "Avg. Area Income": 79248.64245,
-   "Avg. Area House Age": 6.002899808,
-   "AvgAreaNumberofRooms": 6.730821019,
-   "Avg. Area Number of Bedrooms": 3.09,
-   "Area Population": 40173.07217,
-   "Price": 1,
-   "Address": "188 Johnson Views Suite 079\nLake Kathleen, CA 48958"
+   "Avg. Area Income": 72606.0485,
+   "Avg. Area House Age": 7.340763348,
+   "AvgAreaNumberofRooms": 7.343027767,
+   "Avg. Area Number of Bedrooms": 6.16,
+   "Area Population": 31550.41528,
+   "Price": 1629345.787,
+   "Address": "80592 Hendricks Extension\nShaneberg, DE 57151"
  },
  {
-   "Avg. Area Income": 61287.06718,
-   "Avg. Area House Age": 5.86588984,
-   "AvgAreaNumberofRooms": 8.51272743,
-   "Avg. Area Number of Bedrooms": 5.13,
-   "Area Population": 36882.1594,
-   "Price": 1,
-   "Address": "9127 Elizabeth Stravenue\nDanieltown, WI 06482-3489"
+   "Avg. Area Income": 59979.98691,
+   "Avg. Area House Age": 5.367789514,
+   "AvgAreaNumberofRooms": 7.287303779,
+   "Avg. Area Number of Bedrooms": 6.27,
+   "Area Population": 33072.60529,
+   "Price": 980049.3901,
+   "Address": "545 Flores Shoal Suite 364\nEricatown, IL 38240"
  },
  {
-   "Avg. Area Income": 63345.24005,
-   "Avg. Area House Age": 7.188236095,
-   "AvgAreaNumberofRooms": 5.586728665,
-   "Avg. Area Number of Bedrooms": 3.26,
-   "Area Population": 34310.24283,
-   "Price": 1,
-   "Address": "USS Barnett\nFPO AP 44820"
+   "Avg. Area Income": 65567.85918,
+   "Avg. Area House Age": 5.184775392,
+   "AvgAreaNumberofRooms": 6.544099249,
+   "Avg. Area Number of Bedrooms": 4.22,
+   "Area Population": 44057.14966,
+   "Price": 928538.7848,
+   "Address": "033 Jennifer Squares\nLake Seanmouth, SC 57286-2829"
  },
  {
-   "Avg. Area Income": 68001.33124,
-   "Avg. Area House Age": 5.534388416,
-   "AvgAreaNumberofRooms": 7.130143864,
-   "Avg. Area Number of Bedrooms": 5.44,
-   "Area Population": 42625.62016,
-   "Price": 0,
-   "Address": "USS Wallace\nFPO AE 73316"
+   "Avg. Area Income": 55250.11036,
+   "Avg. Area House Age": 5.560995921,
+   "AvgAreaNumberofRooms": 6.105253614,
+   "Avg. Area Number of Bedrooms": 4.12,
+   "Area Population": 22912.06692,
+   "Price": 583016.7919,
+   "Address": "216 Erin Junctions Apt. 524\nEast Anthony, VT 42099-5384"
  },
  {
-   "Avg. Area Income": 65510.5818,
-   "Avg. Area House Age": 5.992305307,
-   "AvgAreaNumberofRooms": 6.792336104,
-   "Avg. Area Number of Bedrooms": 4.07,
-   "Area Population": 46501.2838,
-   "Price": 0,
-   "Address": "37778 George Ridges Apt. 509\nEast Holly, NV 29290-3595"
+   "Avg. Area Income": 81137.46297,
+   "Avg. Area House Age": 7.726796262,
+   "AvgAreaNumberofRooms": 6.791657259,
+   "Avg. Area Number of Bedrooms": 3.21,
+   "Area Population": 34493.74717,
+   "Price": 1659170.513,
+   "Address": "990 Kelly Greens Apt. 165\nHernandezfort, TX 47559"
+ },
+ {
+   "Avg. Area Income": 73340.58109,
+   "Avg. Area House Age": 3.596318811,
+   "AvgAreaNumberofRooms": 6.262380423,
+   "Avg. Area Number of Bedrooms": 3.31,
+   "Area Population": 36956.97522,
+   "Price": 1039332.667,
+   "Address": "2003 Karen Harbor Suite 320\nWest Sarahport, AS 42200-8404"
+ },
+ {
+   "Avg. Area Income": 77622.95812,
+   "Avg. Area House Age": 6.738013799,
+   "AvgAreaNumberofRooms": 6.04304029,
+   "Avg. Area Number of Bedrooms": 3.34,
+   "Area Population": 51102.44195,
+   "Price": 1599996.961,
+   "Address": "44268 Michele Square Apt. 984\nCollinsside, WI 00405"
+ },
+ {
+   "Avg. Area Income": 57542.62568,
+   "Avg. Area House Age": 4.788083238,
+   "AvgAreaNumberofRooms": 8.289084856,
+   "Avg. Area Number of Bedrooms": 4.16,
+   "Area Population": 46205.87571,
+   "Price": 1059406.13,
+   "Address": "2725 Evan Street\nLake Cynthiahaven, LA 24296-0534"
+ },
+ {
+   "Avg. Area Income": 52848.63047,
+   "Avg. Area House Age": 5.329908451,
+   "AvgAreaNumberofRooms": 5.829254933,
+   "Avg. Area Number of Bedrooms": 4.48,
+   "Area Population": 53628.68239,
+   "Price": 880132.844,
+   "Address": "9306 Wright Park Apt. 278\nSouth Jacquelinefort, IL 99300-9697"
+ },
+ {
+   "Avg. Area Income": 73654.46422,
+   "Avg. Area House Age": 6.856103872,
+   "AvgAreaNumberofRooms": 4.780167701,
+   "Avg. Area Number of Bedrooms": 3.31,
+   "Area Population": 31859.24002,
+   "Price": 1251873.624,
+   "Address": "24388 Jones Tunnel Apt. 628\nTiffanyport, MD 02126-2539"
  }
 ]
