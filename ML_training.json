@@ -1,150 +1,150 @@
 [
-  {
-"TP/FP": 33 ,
-"Containers/FP": 33
+ {
+"TP": 33 ,
+"Containers": 0.7
 },
 {
-"TP/FP": 30 ,
-"Containers/FP": 30
+"TP": 30 ,
+"Containers": 0.6
 },
 {
-"TP/FP": 22.6 ,
-"Containers/FP": 22.6
+"TP": 22.6 ,
+"Containers": 0.7
 },
 {
-"TP/FP": 21.8 ,
-"Containers/FP": 21.8
+"TP": 21.8 ,
+"Containers": 0.9
 },
 {
-"TP/FP": 21.6 ,
-"Containers/FP": 21.6
+"TP": 21.6 ,
+"Containers": 0.8
 },
 {
-"TP/FP": 21.6 ,
-"Containers/FP": 21.6
+"TP": 21.6 ,
+"Containers": 0.7
 },
 {
-"TP/FP": 20.2 ,
-"Containers/FP": 20.2
+"TP": 20.2 ,
+"Containers": 0.7
 },
 {
-"TP/FP": 20 ,
-"Containers/FP": 20
+"TP": 20 ,
+"Containers": 0.6
 },
 {
-"TP/FP": 18.9 ,
-"Containers/FP": 18.9
+"TP": 18.9 ,
+"Containers": 0.9
 },
 {
-"TP/FP": 17.3 ,
-"Containers/FP": 17.3
+"TP": 17.3 ,
+"Containers": 0.6
 },
 {
-"TP/FP": 17 ,
-"Containers/FP": 17
+"TP": 17 ,
+"Containers": 0.5
 },
 {
-"TP/FP": 16.7 ,
-"Containers/FP": 16.7
+"TP": 16.7 ,
+"Containers": 0.8
 },
 {
-"TP/FP": 16.3 ,
-"Containers/FP": 16.3
+"TP": 16.3 ,
+"Containers": 0.8
 },
 {
-"TP/FP": 15.8 ,
-"Containers/FP": 15.8
+"TP": 15.8 ,
+"Containers": 0.8
 },
 {
-"TP/FP": 15.1 ,
-"Containers/FP": 15.1
+"TP": 15.1 ,
+"Containers": 0.6
 },
 {
-"TP/FP": 13.9 ,
-"Containers/FP": 13.9
+"TP": 13.9 ,
+"Containers": 0.6
 },
 {
-"TP/FP": 13.7 ,
-"Containers/FP": 13.7
+"TP": 13.7 ,
+"Containers": 0.6
 },
 {
-"TP/FP": 13.5 ,
-"Containers/FP": 13.5
+"TP": 13.5 ,
+"Containers": 0.7
 },
 {
-"TP/FP": 13.3 ,
-"Containers/FP": 13.3
+"TP": 13.3 ,
+"Containers": 0.5
 },
 {
-"TP/FP": 13.2 ,
-"Containers/FP": 13.2
+"TP": 13.2 ,
+"Containers": 0.9
 },
 {
-"TP/FP": 12.5 ,
-"Containers/FP": 12.5
+"TP": 12.5 ,
+"Containers": 0.6
 },
 {
-"TP/FP": 12.3 ,
-"Containers/FP": 12.3
+"TP": 12.3 ,
+"Containers": 0.8
 },
 {
-"TP/FP": 11.9 ,
-"Containers/FP": 11.9
+"TP": 11.9 ,
+"Containers": 0.6
 },
 {
-"TP/FP": 11 ,
-"Containers/FP": 11
+"TP": 11 ,
+"Containers": 0.3
 },
 {
-"TP/FP": 10.5 ,
-"Containers/FP": 10.5
+"TP": 10.5 ,
+"Containers": 0.5
 },
 {
-"TP/FP": 10.1 ,
-"Containers/FP": 10.1
+"TP": 10.1 ,
+"Containers": 0.6
 },
 {
-"TP/FP": 9.6 ,
-"Containers/FP": 9.6
+"TP": 9.6 ,
+"Containers": 0.6
 },
 {
-"TP/FP": 9.5 ,
-"Containers/FP": 9.5
+"TP": 9.5 ,
+"Containers": 0.5
 },
 {
-"TP/FP": 9.4 ,
-"Containers/FP": 9.4
+"TP": 9.4 ,
+"Containers": 0.6
 },
 {
-"TP/FP": 8.8 ,
-"Containers/FP": 8.8
+"TP": 8.8 ,
+"Containers": 0.7
 },
 {
-"TP/FP": 8.5 ,
-"Containers/FP": 8.5
+"TP": 8.5 ,
+"Containers": 0.7
 },
 {
-"TP/FP": 8.4 ,
-"Containers/FP": 8.4
+"TP": 8.4 ,
+"Containers": 0.7
 },
 {
-"TP/FP": 7.7 ,
-"Containers/FP": 7.7
+"TP": 7.7 ,
+"Containers": 0.9
 },
 {
-"TP/FP": 6.6 ,
-"Containers/FP": 6.6
+"TP": 6.6 ,
+"Containers": 0.6
 },
 {
-"TP/FP": 5.4 ,
-"Containers/FP": 5.4
+"TP": 5.4 ,
+"Containers": 0.4
 },
 {
-"TP/FP": 4.3 ,
-"Containers/FP": 4.3
+"TP": 4.3 ,
+"Containers": 0.4
 },
 {
-"TP/FP": 4 ,
-"Containers/FP": 4
+"TP": 4 ,
+"Containers": 0.3
 }
 ]
