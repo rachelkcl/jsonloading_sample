@@ -1,62 +1,52 @@
 [
 	{
 		"order": 1,
-		"stock_code": "601398",
-		"stock_name": "工商银行",
-		"market_capitalization": 14451.21
+		"stock_name": "Australia",
+		"market_capitalization": 30.608696
 	},
 	{
 		"order": 2,
-		"stock_code": "601857",
-		"stock_name": "中国石油",
-		"market_capitalization": 13148.07
+		"stock_name": "Singapore",
+		"market_capitalization": 28.857143
 	},
 	{
 		"order": 3,
-		"stock_code": "601288",
-		"stock_name": "农业银行",
-		"market_capitalization": 11620.49
+		"stock_name": "Honduras",
+		"market_capitalization": 23.750000
 	},
 	{
 		"order": 4,
-		"stock_code": "601988",
-		"stock_name": "中国银行",
-		"market_capitalization": 7608.64
+		"stock_name": "United States",
+		"market_capitalization": 20.847262
 	},
 	{
 		"order": 5,
-		"stock_code": "601318",
-		"stock_name": "中国平安",
-		"market_capitalization": 7004.4
+		"stock_name": "Switzerland",
+		"market_capitalization": 19.961669
 	},
 	{
 		"order": 6,
-		"stock_code": "600519",
-		"stock_name": "贵州茅台",
-		"market_capitalization": 6934.21
+		"stock_name": "Ireland",
+		"market_capitalization": 18.333333
 	},
 	{
 		"order": 7,
-		"stock_code": "600028",
-		"stock_name": "中国石化",
-		"market_capitalization": 5905.48
+		"stock_name": "Russia",
+		"market_capitalization": 17.416843
 	},
 	{
 		"order": 8,
-		"stock_code": "600036",
-		"stock_name": "招商银行",
-		"market_capitalization": 5891.63
+		"stock_name": "Spain",
+		"market_capitalization": 12.710135
 	},
 	{
 		"order": 9,
-		"stock_code": "601628",
-		"stock_name": "中国人寿",
-		"market_capitalization": 4583.26
+		"stock_name": "Italy",
+		"market_capitalization": 11.874505
 	},
 	{
 		"order": 10,
-		"stock_code": "601088",
-		"stock_name": "中国神华",
-		"market_capitalization": 3298.21
+		"stock_name": "Germany",
+		"market_capitalization": 11.540749
 	}
 ]
