@@ -2,51 +2,61 @@
 	{
 		"order": 1,
 		"stock_name": "Australia",
+		"short_name": "AU",
 		"market_capitalization": 30.608696
 	},
 	{
 		"order": 2,
 		"stock_name": "Singapore",
+		"short_name": "SG",
 		"market_capitalization": 28.857143
 	},
 	{
 		"order": 3,
 		"stock_name": "Honduras",
+		"short_name": "HN",
 		"market_capitalization": 23.750000
 	},
 	{
 		"order": 4,
-		"stock_name": "US",
+		"stock_name": "United States",
+		"short_name": "US",
 		"market_capitalization": 20.847262
 	},
 	{
 		"order": 5,
 		"stock_name": "Switzerland",
+		"short_name": "CH",
 		"market_capitalization": 19.961669
 	},
 	{
 		"order": 6,
 		"stock_name": "Ireland",
+		"short_name": "IE",
 		"market_capitalization": 18.333333
 	},
 	{
 		"order": 7,
 		"stock_name": "Russia",
+		"short_name": "RU",
 		"market_capitalization": 17.416843
 	},
 	{
 		"order": 8,
 		"stock_name": "Spain",
+		"short_name": "ES",
 		"market_capitalization": 12.710135
 	},
 	{
 		"order": 9,
 		"stock_name": "Italy",
+		"short_name": "IT",
 		"market_capitalization": 11.874505
 	},
 	{
 		"order": 10,
 		"stock_name": "Germany",
+		"short_name": "DE",
 		"market_capitalization": 11.540749
 	}
 ]
