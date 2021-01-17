@@ -1,7 +1,6 @@
 [
 	{
 		"month": "Adults",
-		"sh_market_capitalization": 117.888889,
 		"sh_transaction_amount": 14.453561,
 		"sh_pe_ratio": 0.1511875,
 		"sz_market_capitalization": 0,
@@ -10,7 +9,6 @@
 	},
 	{
 		"month": "Arts",
-		"sh_market_capitalization": 424.333333,
 		"sh_transaction_amount": 21.897032,
 		"sh_pe_ratio": 0.267125,
 		"sz_market_capitalization": 0,
@@ -28,7 +26,6 @@
 	},
 	{
 		"month": "Computer",
-		"sh_market_capitalization": 646.222222,
 		"sh_transaction_amount": 15.524972,
 		"sh_pe_ratio": 0.2370625,
 		"sz_market_capitalization": 0,
@@ -37,7 +34,6 @@
 	},
 	{
 		"month": "Games",
-		"sh_market_capitalization": 194.777778,
 		"sh_transaction_amount": 19.745188,
 		"sh_pe_ratio": 0.274125,
 		"sz_market_capitalization": 0,
@@ -46,7 +42,6 @@
 	},
 	{
 		"month": "Health",
-		"sh_market_capitalization": 69.000000,
 		"sh_transaction_amount": 23.146439,
 		"sh_pe_ratio": 0.249,
 		"sz_market_capitalization": 0,
@@ -55,7 +50,6 @@
 	},
 	{
 		"month": "Home",
-		"sh_market_capitalization": 123.444444,
 		"sh_transaction_amount":  26.665687,
 		"sh_pe_ratio": 0.2726875,
 		"sz_market_capitalization": 0,
@@ -64,7 +58,6 @@
 	},
 	{
 		"month": "Kidsteen",
-		"sh_market_capitalization": 514.888889,
 		"sh_transaction_amount": 23.832648,
 		"sh_pe_ratio": 0.2744375,
 		"sz_market_capitalization": 0,
@@ -73,7 +66,6 @@
 	},
 	{
 		"month": "News",
-		"sh_market_capitalization": 546.222222,
 		"sh_transaction_amount": 24.062125,
 		"sh_pe_ratio": 0.270625,
 		"sz_market_capitalization": 0,
@@ -82,7 +74,6 @@
 	},
 	{
 		"month": "Recreation",
-		"sh_market_capitalization": 68.333333,
 		"sh_transaction_amount": 25.948627,
 		"sh_pe_ratio": 0.24125,
 		"sz_market_capitalization": 0,
@@ -91,7 +82,6 @@
 	},
 	{
 		"month": "Reference",
-		"sh_market_capitalization": 557.555556,
 		"sh_transaction_amount": 14.805264,
 		"sh_pe_ratio": 0.266125,
 		"sz_market_capitalization": 0,
@@ -100,7 +90,6 @@
 	},
 	{
 		"month": "Regional",
-		"sh_market_capitalization": 611.777778,
 		"sh_transaction_amount": 16.806473,
 		"sh_pe_ratio": 0.2446875,
 		"sz_market_capitalization": 0,
@@ -109,7 +98,6 @@
 	},
 	{
 		"month": "Science",
-		"sh_market_capitalization": 459.333333,
 		"sh_transaction_amount": 16.389887,
 		"sh_pe_ratio": 0.2614375,
 		"sz_market_capitalization": 0,
@@ -118,7 +106,6 @@
 	},
 	{
 		"month": "Shopping",
-		"sh_market_capitalization": 398.111111,
 		"sh_transaction_amount": 16.305469,
 		"sh_pe_ratio": 0.2173125,
 		"sz_market_capitalization": 0,
@@ -127,7 +114,6 @@
 	},
 	{
 		"month": "Society",
-		"sh_market_capitalization": 383.888889,
 		"sh_transaction_amount": 14.807536,
 		"sh_pe_ratio": 0.2619375,
 		"sz_market_capitalization": 0,
@@ -136,7 +122,6 @@
 	},
 	{
 		"month": "Sports",
-		"sh_market_capitalization": 62.111111,
 		"sh_transaction_amount": 26.431450,
 		"sh_pe_ratio": 0.2639375,
 		"sz_market_capitalization": 0,
