@@ -1,0 +1,52 @@
+[
+	{
+		"order": 1,
+		"country_name": "Russian",
+		"dynamic_similarity": 0.642073
+	},
+	{
+		"order": 2,
+		"country_name": "Greece",
+		"dynamic_similarity": 0.627081
+	},
+	{
+		"order": 3,
+		"country_name": "Honduras",
+		"dynamic_similarity": 0.436620
+	},
+	{
+		"order": 4,
+		"country_name": "Denmark",
+		"dynamic_similarity": 0.420720
+	},
+	{
+		"order": 5,
+		"country_name": "Germany",
+		"dynamic_similarity": 0.379115
+	},
+	{
+		"order": 6,
+		"country_name": "China",
+		"dynamic_similarity": 0.365033
+	},
+	{
+		"order": 7,
+		"country_name": "India",
+		"dynamic_similarity": 0.363731
+	},
+	{
+		"order": 8,
+		"country_name": "Japan",
+		"dynamic_similarity": 0.362500
+	},
+	{
+		"order": 9,
+		"country_name": "France",
+		"dynamic_similarity": 0.340767
+	},
+	{
+		"order": 10,
+		"country_name": "Spain",
+		"dynamic_similarity": 0.338721
+	}
+]
